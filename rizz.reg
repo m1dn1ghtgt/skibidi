@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\skibidi]
+"URL Protocol"=""
+
+[HKEY_CLASSES_ROOT\skibidi\shell]
+
+[HKEY_CLASSES_ROOT\skibidi\shell\open]
+
+[HKEY_CLASSES_ROOT\skibidi\shell\open\command]
+@="\"C:\\Users\\ozzyl\\Documents\\url-protocol-app\\Builds\\Current (V3).exe\""
